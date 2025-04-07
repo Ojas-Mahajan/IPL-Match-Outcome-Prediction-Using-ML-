@@ -16,7 +16,7 @@ Machine Learning: Scikit-learn
 
 Backend & UI: Streamlit
 
-Deployment: Docker
+Deployment: Render
 
  Dependencies: Pandas, NumPy, Scikit-learn
 
