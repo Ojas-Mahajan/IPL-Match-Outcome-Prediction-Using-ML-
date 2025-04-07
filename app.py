@@ -2,6 +2,10 @@ import streamlit as st
 import pickle
 import pandas as pd
 
+import sklearn
+print("SKLEARN VERSION:", sklearn.__version__)
+
+
 # Define Teams and Cities
 teams = ['Sunrisers Hyderabad', 'Mumbai Indians', 'Royal Challengers Bangalore',
          'Kolkata Knight Riders', 'Kings XI Punjab', 'Chennai Super Kings',
