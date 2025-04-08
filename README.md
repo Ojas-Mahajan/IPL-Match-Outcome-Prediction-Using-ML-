@@ -1,9 +1,9 @@
 # ipl-win-probability-predictor
-A machine learning project to find out the win probability of an IPL match
+A machine learning project to find out the winning probability of an IPL match
 
 
 ## Features
-Uses machine learning to estimate win probability based on match conditions.
+Uses machine learning to estimate  win probability based on match conditions.
 
 Built with Streamlit for an interactive web-based UI.
 
