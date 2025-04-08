@@ -9,7 +9,7 @@ Built with Streamlit for an interactive web-based UI.
 
 Trained on IPL match data with factors like batting team, bowling team, current score, wickets, overs, and required run rate.
 
-Containerized with Docker for easy deployment and scalability.
+Containerized with Render for easy deployment and scalability.
 
 ## Tech Stack
 Machine Learning: Scikit-learn
