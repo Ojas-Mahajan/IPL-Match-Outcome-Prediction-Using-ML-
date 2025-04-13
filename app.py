@@ -130,7 +130,7 @@ def get_base64_image(image_path):
         return base64.b64encode(img_file.read()).decode('utf-8')
 
 # Verify image exists
-image_path = 'logos\stadium background 2.jpg'
+image_path = 'stadium background 2.jpg''
 if not os.path.exists(image_path):
     st.error(f"Error: Image not found at {os.path.abspath(image_path)}")
 else:
