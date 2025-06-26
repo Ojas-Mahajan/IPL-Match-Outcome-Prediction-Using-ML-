@@ -18,7 +18,7 @@ Backend & UI: Streamlit
 
 Deployment: Render
 
- Dependencies: Pandas, NumPy, Scikit-learn
+ Dependencies: Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## Usage
 Select the batting and bowling teams.
