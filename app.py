@@ -1,11 +1,5 @@
 
-
-
-
-
 # //2ND PARA OF CODE
-
-
 
 import streamlit as st
 import pickle
