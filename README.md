@@ -30,7 +30,8 @@ Enter the current score, overs, and wickets.
 Get real-time win probability predictions! 
 
 ## Screenshot of Project
-![image](https://github.com/user-attachments/assets/3c2d325f-d390-4e5d-b2b9-918f2187466a)
+![image](https://github.com/user-attachments/assets/45a56b80-1850-43d2-b55a-9e71a4a049a2)
+
 
 
 
